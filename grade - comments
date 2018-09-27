@@ -1,0 +1,13 @@
+Ryan Welch
+
+Assignment:  Number Class
+Grade:  check/ check+ (See Course Expectations for interpretation)
+
+1 – Very nice interface, implementation, and main methods.  Well organized.  Shows solid understanding of the class concepts of this unit.  Good work.
+
+2 – Your isPrime method does not work.  You start at 2 and work down?
+
+3 – Use explanatory variable names and don’t be afraid to use multiple words, What is numDup?  duplicateNumber?
+
+4 – I like your nearestPerfectSquare method and that you overrode isPerfectSquare.  No many occasions you show good mathematical insight.
+
